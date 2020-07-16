@@ -1,4 +1,4 @@
-Hey!! I'm Khan Tanveer
+Hey!! I'm <b> Khan Tanveer </b>
 
 >>Instagram <a href="https://www.instagram.com/khan_tanveer__/" target="_blank">@khan_tanveer__</a>
 
