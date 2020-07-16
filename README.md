@@ -1,17 +1,13 @@
+Hey!! I'm Khan Tanveer
+
+>>Instagram <a href="https://www.instagram.com/khan_tanveer__/">@khan_tanveer__</a>
+
+>>Twitter <a href="https://twitter.com/TanveerKhan213">@TanveerKhan213</a>
+
+>>Blog <a href="https://technotanveer.com">Techno Tanveer</a>
+
+
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=khantanveer7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Stats">
 
-<!--
-**khantanveer7/khantanveer7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
