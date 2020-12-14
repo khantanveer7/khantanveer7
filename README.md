@@ -6,7 +6,7 @@ Hey!! I'm <b> Khan Tanveer </b>
 
 >>Blog <a href="https://technotanveer.com" target="_blank">Techno Tanveer</a>
 
->>Blog <a href="https://tanveer-projects.web.app" target="_blank">My Projects</a>
+>>Projects <a href="https://tanveer-projects.web.app" target="_blank">My Projects</a>
 <hr>
 <hr>
 
