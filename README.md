@@ -15,5 +15,6 @@
 <hr>
 
 <img src="https://github-readme-stats.vercel.app/api?username=khantanveer7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Stats">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khantanveer7&&theme=buefy&layout=compact" alt="TopLanguage" />
 
 
