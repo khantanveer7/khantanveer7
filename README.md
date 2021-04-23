@@ -8,8 +8,6 @@
 
 >Twitter <a href="https://twitter.com/TanveerKhan213" target="_blank">@TanveerKhan213</a>
 
->Blog <a href="https://technotanveer.com" target="_blank">Techno Tanveer</a>
-
 >Projects <a href="https://tanveer-projects.web.app" target="_blank">My Projects</a>
 <hr>
 <hr>
