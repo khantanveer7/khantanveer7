@@ -1,8 +1,5 @@
 ### Hi there, I'm Khan Tanveer 👋
 
-- 📚 I’m currently learning React, Javascript, Nodejs, MongoDB and Firebase.
-- 🥅 2021 Goals: Master React, App Dev.
-
 
 >Instagram <a href="https://www.instagram.com/khan_tanveer__/" target="_blank">@khan_tanveer__</a>
 
