@@ -19,5 +19,5 @@
 <hr>
 * Try App (Under Development) 
 
-[here](https://drive.google.com/file/d/11UQre2PW1e_Agm6gQN17Spn8GQgXgWfk/view?usp=sharing)
+[here](https://drive.google.com/uc?id=1-spKWaX8Vg5pt1KvwL5p1LTRp5G7mjxy&export=download)
 
