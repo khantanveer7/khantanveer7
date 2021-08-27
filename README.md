@@ -20,6 +20,6 @@
 * Download (Under Development) 
 
 
-[<img align="center" width="50" height="50" src="https://ssl.gstatic.com/images/branding/product/2x/hh_drive_96dp.png"/>](https://drive.google.com/file/d/1rWBVeNLGM438A-VVfkkSsROQL2w4zJqs/view?usp=sharing/?target=_blank)
+[<img align="center" width="50" height="50" src="https://ssl.gstatic.com/images/branding/product/2x/hh_drive_96dp.png"/>](https://drive.google.com/u/0/uc?id=1rWBVeNLGM438A-VVfkkSsROQL2w4zJqs&export=download)
 
 
